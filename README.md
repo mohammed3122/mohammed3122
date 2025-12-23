@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Awd!;+Welcome!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Abd-Allatif!;+Welcome!;" />
       </td>
       <td>
         <img src="https://github.com/mohammed3122/forMe/blob/main/IMG-20250921-WA0020.jpg"width="120" style="border-radius:50%;" />
